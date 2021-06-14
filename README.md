@@ -20,7 +20,7 @@ Although Pewlett Hackard should be able to establish some mentorship relationshi
 ![mentorship counts](https://github.com/murphyk2021/Pewlett-Hackard-Analysis/blob/cdf90683fe2f3f8ccbcdf405069b218e7a536750/Analysis%20Projects/mentors%20available%20per%20job%20title.PNG)
 
 ### Main Takeaways:
- - Nearly 30% of all Pewlett Hackard employees are eligble for retirement
+ - Nearly 30% of all Pewlett Hackard employees are eligible for retirement
  - More than 60% of the employees preparing for retirement are in senior positions
  - There are not enough employees approaching retirement age to mentor all of the new hires that will be required
  - Pewlett Hackard better start hiring right away!
